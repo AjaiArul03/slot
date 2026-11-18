@@ -1,6 +1,6 @@
 # Ex04 Time Table
 ## Date:
-17/11/2026
+18/11/2026
 ## AIM
 To write a html webpage page to display your slot timetable.
 
@@ -39,7 +39,7 @@ Execute the program using runserver command.
     <img src="logo.png" width="800" height="150">
 </cent>
 
-<h2 align="center" style="color:#512E5F;">
+<h2 align="center" style="color:#f56810;">
 SLOT TIME TABLE - AJAI A (26018976)
 </h2>
 
@@ -48,7 +48,7 @@ SLOT TIME TABLE - AJAI A (26018976)
 <table border="2" align="center" cellpadding="12"
 style="border-collapse:collapse; text-align:center;">
 
-<tr bgcolor="#8E44AD" style="color:white;">
+<tr bgcolor="orange" style="color:white;">
 <th>Time / Day</th>
 <th>Monday</th>
 <th>Tuesday</th>
@@ -58,7 +58,7 @@ style="border-collapse:collapse; text-align:center;">
 <th>Saturday</th>
 </tr>
 
-<tr bgcolor="#E8DAEF">
+<tr bgcolor="red">
 <th>8:00-10:00 AM</th>
 <td>Software Engineering</td>
 <td>Python</td>
@@ -68,7 +68,7 @@ style="border-collapse:collapse; text-align:center;">
 <td>Calculus & Matrix Algebra</td>
 </tr>
 
-<tr bgcolor="#E8DAEF">
+<tr bgcolor="red">
 <th>10:00-12:00 PM</th>
 <td>---</td>
 <td>FWAD</td>
@@ -78,7 +78,7 @@ style="border-collapse:collapse; text-align:center;">
 <td>Digital Electronics</td>
 </tr>
 
-<tr bgcolor="#E8DAEF">
+<tr bgcolor="red">
 <th>1:00-3:00 PM</th>
 <td>FWAD</td>
 <td>Digital Electronics</td>
@@ -88,7 +88,7 @@ style="border-collapse:collapse; text-align:center;">
 <td>---</td>
 </tr>
 
-<tr bgcolor="#E8DAEF">
+<tr bgcolor="red">
 <th>3:00-5:00 PM</th>
 <td>---</td>
 <td>Communicative English</td>
@@ -166,7 +166,7 @@ style="border-collapse:collapse; text-align:center;">
 ```
 
 ## OUTPUT
-![alt text]({6EEC1B56-92F4-405F-A456-CDDFA8D5E199}.png)
+![alt text](image.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
